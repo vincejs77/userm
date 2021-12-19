@@ -2,9 +2,10 @@ const mysql = require("mysql");
 
 // Connection Pool
 let connection = mysql.createConnection({
-	host: process.env.DB_HOST,
-	user: process.env.DB_USER,
-	database: process.env.DB_NAME
+	host: "localhost",
+	user: "root",
+	database: "usermanagement_tut",
+	password: "SombreroVince77"
 });
 
 // View Users
