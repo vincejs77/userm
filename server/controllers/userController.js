@@ -1,6 +1,6 @@
 const mysql = require("mysql");
 
-// Connection Pool
+// ************** Connection Pool
 let connection = mysql.createConnection({
 	host: "localhost",
 	user: "root",
