@@ -1,7 +1,5 @@
 # Node.js User Management System - Express, Express-Handlebars, HBS, MySQL
 
-This was created as part of YouTube Video. Links below
-
 ## Create .env file
 
 Create a .env file to store your database credentials
