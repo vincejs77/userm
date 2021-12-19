@@ -1,8 +1,8 @@
-# Node.js User Management System - Express, Express-Handlebars, HBS, MySQL
+# Système de gestion des utilisateurs Node.js - Express, Express-Handlebars, HBS, MySQL
 
-## Create .env file
+## Créer un fichier .env
 
-Create a .env file to store your database credentials
+Créez un fichier .env pour stocker vos informations d'identification de base de données
 
 ```
 DB_HOST = localhost
@@ -11,9 +11,9 @@ DB_USER = root
 DB_PASS = password
 ```
 
-## Installation
+## Installations
 
-To run this project, install it locally using npm:
+Pour exécuter ce projet, installez-le localement à l'aide de npm :
 
 ```
 $ npm install
